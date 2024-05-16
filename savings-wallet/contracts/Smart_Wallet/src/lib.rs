@@ -61,3 +61,5 @@ token::Client::new(&env, &token).transfer(&from, &to, &transfer_amount);
 }
 }
 }
+
+mod test;
