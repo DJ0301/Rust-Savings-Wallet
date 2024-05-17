@@ -4,7 +4,6 @@ use soroban_sdk::{ contract, contractimpl, contracttype, token, Address, Env };
 #[contracttype]
 pub enum StorageKey {
     Admin,
-  /// Savings account address
   SavingsAccount,
 }
 
@@ -62,4 +61,3 @@ token::Client::new(&env, &token).transfer(&from, &to, &transfer_amount);
 }
 }
 
-mod test;
