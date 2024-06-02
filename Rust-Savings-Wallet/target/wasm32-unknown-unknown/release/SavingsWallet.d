@@ -1,0 +1,1 @@
+/Users/dhananjayjoshi/Desktop/sorobantest/Rust-Savings-Wallet/target/wasm32-unknown-unknown/release/SavingsWallet.wasm: /Users/dhananjayjoshi/Desktop/sorobantest/Rust-Savings-Wallet/contracts/Rust-Savings-Wallet/src/lib.rs /Users/dhananjayjoshi/Desktop/sorobantest/Rust-Savings-Wallet/contracts/Rust-Savings-Wallet/src/test.rs
